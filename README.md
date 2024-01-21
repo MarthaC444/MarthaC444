@@ -1,4 +1,9 @@
 ### I'm Martha Chamberlain.
+After creating a few blogs for myself I realized I liked making the blog way more than adding content to it!
+
+* Building full stack personal projects with React and React Native
+* Open to work
+
 
 <!--
 **MarthaC444/MarthaC444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
