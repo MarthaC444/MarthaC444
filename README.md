@@ -1,7 +1,7 @@
 ### Hi, I'm Martha Chamberlain
 After creating a few blogs for myself I realized I liked making the blog way more than adding content to it!
 
-* Building full stack personal projects with React and React Native
+* Freelancing - Web dev - React and React Native
 * Looking for Jr. Front end or entry level Full stack role.
 
 
