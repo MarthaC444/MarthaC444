@@ -1,8 +1,9 @@
 ### Hi, I'm Martha Chamberlain
-After creating a few blogs for myself I realized I liked making the blog way more than adding content to it!
+Currently exploring automated QA but still love my basic web stack.
 
-* Freelancing - Web dev - React and React Native
-* Looking for Jr. Front end or entry level Full stack role.
+* Apprenticeship with client work experience.
+* Web dev, React and React Native
+* Looking for Jr. Front end or entry level Full stack role. Also very open to web publishing and QA. I'm told I'm really great at finding problems and bugs!
 
 
 <!--
