@@ -1,7 +1,7 @@
 ### Hi, I'm Martha Chamberlain
 Looking for Jr. Front end or entry level Full stack role. I'm told I'm really great at finding bugs and fixing them. Also open to web publishing, design, and QA.
 
-My resume can be found on my [portfolio](https://portfolio.marthachamberlain.com/).
+My resume can be found on my [portfolio](https://portfolio.marthachamberlain.com/) site.
 
 
 
